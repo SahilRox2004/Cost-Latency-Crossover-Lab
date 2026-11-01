@@ -1,0 +1,18 @@
+{
+  "workload": "Small tabular classification",
+  "repeats": 3,
+  "requests_per_trial": 50,
+  "seed": 1379,
+  "serverless_request_price_per_million": 2.0,
+  "serverless_gb_second_price": 1.66667e-05,
+  "serverless_memory_gb": 1.0,
+  "container_hourly_cost": 0.06,
+  "managed_hourly_cost": 0.12,
+  "managed_premium": 1.15,
+  "serverless_base_ms": 8.0,
+  "cold_start_ms": 450.0,
+  "cold_probability_at_0_1_rps": 0.25,
+  "container_base_ms": 12.0,
+  "managed_base_ms": 25.0,
+  "saturation_rps": 8.0
+}

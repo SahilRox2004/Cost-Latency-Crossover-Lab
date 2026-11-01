@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+
+23BCE1379 DA3 Report.pdf
+23BCE1379 DA3 Research Paper.pdf

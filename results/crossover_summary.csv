@@ -1,0 +1,8 @@
+request_rate_rps,least_cost_mode,estimated_cost_per_1000_usd
+0.1,Serverless,0.00400833735
+0.25,Serverless,0.003493910639164753
+0.5,Serverless,0.00320082070889211
+1.0,Serverless,0.0029708670103465265
+2.0,Serverless,0.0027904489952151183
+5.0,Serverless,0.002610162576374774
+10.0,Continuous container,0.0016666666666666668
